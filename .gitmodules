@@ -1,6 +1,2 @@
 [submodule "ssh2"]
-	path = ssh2
-	url = git@github.com:mygethelp/ssh2.git
 [submodule "openvpn-install"]
-	path = openvpn-install
-	url = https://github.com/mygethelp/openvpn-install
